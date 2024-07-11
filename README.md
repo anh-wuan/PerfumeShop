@@ -145,12 +145,6 @@ Live Demo: :point_right: [here]()
 5| [WEB-INF folder](https://github.com/phuuthanh2003/PerfumeShop/blob/main/PefumeMN-Website/web/WEB-INF) | -----------
 6| [libs folder](https://github.com/phuuthanh2003/PerfumeShop/tree/main/PefumeMN-Website/lib) | -----------
 
-## Contributors:
-
-<a href="https://github.com/phuuthanh2003/PerfumeShop/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=phuuthanh2003/PerfumeShop"/>
-</a>
-
 ## Reference
 
 ## License & Copyright
