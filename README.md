@@ -145,9 +145,4 @@ Live Demo: :point_right: [here]()
 5| [WEB-INF folder](https://github.com/phuuthanh2003/PerfumeShop/blob/main/PefumeMN-Website/web/WEB-INF) | -----------
 6| [libs folder](https://github.com/phuuthanh2003/PerfumeShop/tree/main/PefumeMN-Website/lib) | -----------
 
-## Reference
 
-## License & Copyright
-&copy; 2024 Phung Huu Thanh Licensed under the [Apache License 2.0](https://github.com/phuuthanh2003/PerfumeShop/blob/main/LICENSE).
-
-> :love_you_gesture: Feel free to use my repository and star it if you find something interesting :love_you_gesture:
